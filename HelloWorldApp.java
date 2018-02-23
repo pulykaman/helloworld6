@@ -3,11 +3,11 @@ class HelloWorldApp {
     
     String asd = "Asd";
     
-    if(asd.equals("Asd")){
+    if("Asd".equals(asd)){
     	 System.out.println("Hello World!");
     }
     else {
-    	System.out.println("Bye World!");
+    	System.out.println("Bye-Bye World!");
     }
          
     }
